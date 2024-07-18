@@ -1,0 +1,1 @@
+*{box-sizing:border-box;padding:0;margin:0}body{height:100vh;display:flex;align-items:center;justify-content:center}.caixa{height:500px;width:500px;display:grid;grid-template-columns:1fr 1fr 1fr}.caixa .item{border:2px solid #000;width:100%;height:100%}/*# sourceMappingURL=style.css.map */
